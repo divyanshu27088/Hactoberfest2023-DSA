@@ -1,4 +1,4 @@
-# HactoberFest2023
+# HacktoberFest2023
 
 [![Contribution Open](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/divyanshu27088/Hactoberfest2023-DSA/blob/main/CONTRIBUTING.md)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/divyanshu27088/Hactoberfest2023-DSA/issues)
