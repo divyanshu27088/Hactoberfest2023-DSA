@@ -1,67 +1,18 @@
+# Hacktoberfest 2023 
 
-# Contribution Rules📚:
+### Contributing Guidelines
 
-- You are allowed to make pull requests that break the rules. We just merge it ;)
-- Do NOT add any build steps e.g npm install (we want to keep this a simple static site)
-- Do NOT remove other content.
-- Styling/code can be pretty, ugly or stupid, big or small as long as it works
-- Add your name to the contributorsList file
-- Try to keep pull requests small to minimize merge conflicts
+   - Languages allowed: JavaScript Java C++ Python
+   - One person one PR in the repo
+   - Fork the repository
+   - Create a folder
+   - If the folder is already present then add the code file only
+   - The file name must be relevant to the question.
+   - Please do not add code with the language which is already present
+   - Please do not add .class or .bin file
+   - Tag this issue and create a pull request
+   - Please do not make PR before being assigned for the issue
+   - Work will be assigned first cum first serve basis
+   - Star the repo if you want (optional)
 
-
-## Getting Started 🤩🤗:
-
-- Fork this repo (button on top)
-- Clone on your local machine
-
-```terminal
-git clone https://github.com/ossamamehmood/Hactoberfest2023-DSA.git
-```
-- Navigate to project directory.
-```terminal
-cd Hactoberfest2023-DSA
-```
-
-- Create a new Branch
-
-```markdown
-git checkout -b my-new-branch
-```
-- Add your Name and your project
-```markdown
-git add .
-```
-- Commit your changes.
-
-```markdown
-git commit -m "Relevant message"
-```
-- Then push 
-```markdown
-git push origin my-new-branch
-```
-
-
-- Create a new pull request from your forked repository
-
-<br>
-
-## Avoid Conflicts {Syncing your fork}
-
-An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.   
-
-```terminal
-git remote add upstream https://github.com/divyanshu27088/Hactoberfest2023-DSA
-```
-
-You can verify that the new remote has been added by typing
-```terminal
-git remote -v
-```
-
-To pull any new changes from your parent repo simply run
-```terminal
-git merge upstream/master
-```
-
-This will give you any eventual conflicts and allow you to easily solve them in your repo. It's a good idea to use it frequently in between your own commits to make sure that your repo is up to date with its parent.
+Happy Coding ✌✌
